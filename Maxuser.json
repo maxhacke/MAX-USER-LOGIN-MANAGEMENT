@@ -1,16 +1,16 @@
 [
   {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "id": "d5dd6c3fabf4ea4c",
+    "username": "@max",
+    "password": "max",
+    "expiresAt": "2025-11-5",
+    "allowOffline": false
   },
   {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
