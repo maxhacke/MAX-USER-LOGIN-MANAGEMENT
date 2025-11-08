@@ -1,15 +1,15 @@
 [
   {
-    "id": "62226d3b265741ef",
-    "username": "shivam",
-    "password": "shivam",
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
-    "id": "75d99d79ed2d4e80",
-    "username": "ZWM",
-    "password": "MAX",
+    "id": "62226d3b265741ef",
+    "username": "user2",
+    "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
