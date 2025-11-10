@@ -4,7 +4,7 @@
     "username": "max",
     "password": "max",
     "expiresAt": "2026-12-31",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "android_device_id_2",
