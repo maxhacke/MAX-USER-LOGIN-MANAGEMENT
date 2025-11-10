@@ -14,3 +14,11 @@
     "allowOffline": false
   }
 ]
+[
+  {
+    "id": "d5dd6c3fabf4ea4c",
+    "username": "max",
+    "password": "max",
+    "expiresAt": "2025-12-30",
+    "allowOffline": true
+  },
