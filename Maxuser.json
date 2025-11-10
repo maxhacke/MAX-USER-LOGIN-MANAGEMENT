@@ -1,22 +1,6 @@
 [
   {
     "id": "d5dd6c3fabf4ea4c",
-    "username": "shivam",
-    "password": "shivam",
-    "expiresAt": "2025-12-30",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
-]
-[
-  {
-    "id": "d5dd6fabf4ea4c",
     "username": "max",
     "password": "max",
     "expiresAt": "2025-12-30",
