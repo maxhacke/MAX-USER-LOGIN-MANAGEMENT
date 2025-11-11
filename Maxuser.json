@@ -7,18 +7,26 @@
     "allowOffline": true
   },
   {
-    "id": "d5dd6c3fabf4ea4c",
-    "username": "max1",
-    "password": "max1",
-    "expiresAt": "2025-10-30",
+    "id": "5e40cadfd49e0579",
+    "username": "mx2",
+    "password": "mx2",
+    "expiresAt": "2025-11-30",
     "allowOffline": false
   }
 ]
-{
-    "id": "5e40cadfd49e0579",
-    "username": "max2",
-    "password": "max2",
-    "expiresAt": "2025-12-30",
+[
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
     "allowOffline": false
   }
 ]
