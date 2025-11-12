@@ -12,11 +12,11 @@
     "password": "max",
     "expiresAt": "2025-12-30",
     "allowOffline": false
-  },
-{
+  }
+    {
     "id": "d5dd6c3fabf4ea4c",
-    "username": "maxq",
-    "password": "maxq",
-    "expiresAt": "2025-11-30",
+    "username": "qqq",
+    "password": "qqq",
+    "expiresAt": "2025-12-30",
     "allowOffline": true
   },
